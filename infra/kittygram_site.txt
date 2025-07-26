@@ -1,0 +1,5 @@
+IP: 84.201.167.223;
+name_taski: https://taski.myprojectdomain.ru;
+name_kittygram: https://prcaticuumom.ddns.net;
+login: admin;
+password: admin123secure!;
